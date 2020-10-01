@@ -1,0 +1,11 @@
+C:\Users\SERENA\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\SERENA\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\SERENA\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\SERENA\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\SERENA\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\SERENA\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\SERENA\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\SERENA\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Midterm1Program.resources
+C:\Users\SERENA\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\SERENA\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Midterm1Program.vbproj.GenerateResource.Cache
+C:\Users\SERENA\Documents\Visual Studio 2012\Projects\Midterm1Program\Midterm1Program\bin\Debug\Midterm1Program.exe.config
